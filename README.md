@@ -1,6 +1,7 @@
 # Smart-Taxi-Service---Admin-Management
 Web application for Online Transportation System 
-------2022|SLIIT – 2nd year 1st Semester project
+
+-2022|SLIIT – 2nd year 1st Semester project-
 
 Only Administrator management part was there..
 
